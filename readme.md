@@ -4,6 +4,7 @@ By use of various tools and techniques we have to create a website or applicatio
 'To deploy the model first download zip file of this repository'
 'Install streamlit on your system'
 
+'''
 Fullfill the requirements by installing liberaries:
 matplotlib==3.5.3
 matplotlib-inline==0.1.3
@@ -17,6 +18,7 @@ tensorflow-estimator==2.9.0
 tensorflow-io-gcs-filesystem==0.26.0
 yfinance==0.1.74
 sklearn==0.0
+'''
 
 Than run command prompt on the unzipped folder
 then run code:
