@@ -1,6 +1,9 @@
 from datetime import datetime
 import yfinance as yf
 import matplotlib.pyplot as plt
+from datetime import date
+import pandas as pd
+import numpy as np
 
 def get_data(x):
   start = "2010-01-01"

@@ -48,6 +48,7 @@ model.add(Dense(1))
 model.compile(loss = 'mean_squared_error',optimizer = 'adam')
 
 model.summary()
+model.save('keras.h5')
 
 # Fitting model to the training set 
 model.fit(X_train,y_train,validation_data = (X_test,y_test),epochs = 100,batch_size = 50,verbose = 1)
