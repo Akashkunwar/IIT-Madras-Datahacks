@@ -9,7 +9,7 @@ By use of various tools and techniques we have to create a website or applicatio
 * [Tools useda](https://github.com/Akashkunwar/IIT-Madras-Datahacks#Tools_used)
 * [Performance](https://github.com/Akashkunwar/IIT-Madras-Datahacks#Peformance)
 * [Usage in Market](https://github.com/Akashkunwar/IIT-Madras-Datahacks#Usage_in_market)
-
+* [Deployment](https://github.com/Akashkunwar/IIT-Madras-Datahacks#Deployment)
 
 ## Process
 
@@ -44,6 +44,14 @@ By use of various tools and techniques we have to create a website or applicatio
 
 *   `Conclusion : `
  Most of the stock market around the globe works in very similar manner and behave similarly.
+
+## Deployment
+To deploy the model download this repository in zip file and extract to any directory in yout PC.
+Install streamlit in your pc by :
+> pip install streamlit
+
+Than run the powercell or command pannel in the same directory where you have extracted file and enter command:
+> streamlit run app.py
 
 ## Links
 * [Youtube video link](https://youtu.be/UupM2qIrpZc)
