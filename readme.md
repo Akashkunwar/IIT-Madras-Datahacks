@@ -5,14 +5,10 @@
 By use of various tools and techniques we have to create a website or application on which we can analyze data for various stock markets, not just the Indian Stock Market. And also can upload custom MS Excel sheets of data and analyze the data and also can download the data in form of an Excel sheet. There should also be predictions based on data that how the market will perform in the future. 
 
 # Table of Contents
-
-* [The Concept](https://github.com/Akashkunwar/Dscourses/tree/main/Guvi/Project/Chennai%20House%20Price%20Prediction#the-concept)
-* [The Data](https://github.com/Akashkunwar/Dscourses/tree/main/Guvi/Project/Chennai%20House%20Price%20Prediction#the-data)
-* [Data Cleaning](https://github.com/Akashkunwar/Dscourses/tree/main/Guvi/Project/Chennai%20House%20Price%20Prediction#the-cleaning)
-* [EDA (Exploratory data analysis)](https://github.com/Akashkunwar/Dscourses/tree/main/Guvi/Project/Chennai%20House%20Price%20Prediction#EDA-(Exploratory-data-analysis))
-* [Encoding](https://github.com/Akashkunwar/Dscourses/tree/main/Guvi/Project/Chennai%20House%20Price%20Prediction#Encoding)
-* [Scaling](https://github.com/Akashkunwar/Dscourses/tree/main/Guvi/Project/Chennai%20House%20Price%20Prediction#Scaling)
-* [ML Model Deployment](https://github.com/Akashkunwar/Dscourses/tree/main/Guvi/Project/Chennai%20House%20Price%20Prediction#ML-Model-Deployment)
+* [process](https://github.com/Akashkunwar/IIT-Madras-Datahacks#Process)
+* [Tools useda](https://github.com/Akashkunwar/IIT-Madras-Datahacks#Tools_used)
+* [Performance](https://github.com/Akashkunwar/IIT-Madras-Datahacks#Peformance)
+* [Usage in Market](https://github.com/Akashkunwar/IIT-Madras-Datahacks#Usage_in_market)
 
 
 ## Process
@@ -49,6 +45,9 @@ By use of various tools and techniques we have to create a website or applicatio
 *   `Conclusion : `
  Most of the stock market around the globe works in very similar manner and behave similarly.
 
+## Links
+* [Youtube video link](https://youtu.be/UupM2qIrpZc))
+* [Pitch deck link](https://www.canva.com/design/DAFJNYBIu5c/eKIMjsM6s8t9mNsNB3CqMg/edit?utm_content=DAFJNYBIu5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## About
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
