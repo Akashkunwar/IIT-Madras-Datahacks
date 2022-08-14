@@ -16,7 +16,7 @@ start = "2010-01-01"
 end = date.today().strftime("%Y-%m-%d")
 
 st.title('Stock market Prediction')
-user_input = st.text_input('Enter Stock Name', 'AAPL')
+user_input = st.text_input('Enter Stock Name', 'RELIANCE.NS')
 # df = data.DataReader(user_input, 'yahoo' , start, end)
 df = yf.download(user_input, start, end)
 
