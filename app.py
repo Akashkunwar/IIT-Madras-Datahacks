@@ -12,7 +12,7 @@ import math
 from sklearn.metrics import mean_squared_error
 import streamlit as st
 
-start = "2015-01-01"
+start = "2010-01-01"
 today = date.today().strftime("%Y-%m-%d")
 
 st.title('Forecast of Stock Market')
