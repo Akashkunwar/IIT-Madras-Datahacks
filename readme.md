@@ -1,4 +1,4 @@
-# **Chennai House Price Prediction**
+# **Stock market future priceprediction model**
 ![Comparison Between Models in the Fashion MNIST dataset](https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/analytics-circle-blue-512.png)
 
 ## Problem Statement:
