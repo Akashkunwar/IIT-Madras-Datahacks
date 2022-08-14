@@ -17,8 +17,8 @@ tensorflow==2.9.1
 tensorflow-estimator==2.9.0
 tensorflow-io-gcs-filesystem==0.26.0
 yfinance==0.1.74
+
 sklearn==0.0
-'''
 
 Than run command prompt on the unzipped folder
 then run code:
