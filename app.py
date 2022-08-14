@@ -13,7 +13,12 @@ from sklearn.metrics import mean_squared_error
 import streamlit as st
 
 start = "2010-01-01"
-today = date.today().strftime("%Y-%m-%d")
+end = date.today().strftime("%Y-%m-%d")
 
-st.title('Forecast of Stock Market')
+st.title('Stock market Prediction')
+user_input = st.text_input('Enter Stock Name', 'AAPL')
+# df = data.DataReader(user_input, 'yahoo' , start, end)
+df = yf.download(user_input, start, end)
 
+st.subheader('Data from 2010 - till today')
+st.write(df.describe())
