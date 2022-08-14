@@ -46,7 +46,7 @@ By use of various tools and techniques we have to create a website or applicatio
  Most of the stock market around the globe works in very similar manner and behave similarly.
 
 ## Links
-* [Youtube video link](https://youtu.be/UupM2qIrpZc))
+* [Youtube video link](https://youtu.be/UupM2qIrpZc)
 * [Pitch deck link](https://www.canva.com/design/DAFJNYBIu5c/eKIMjsM6s8t9mNsNB3CqMg/edit?utm_content=DAFJNYBIu5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## About
